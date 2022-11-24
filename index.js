@@ -1,4 +1,6 @@
 console.log("JavaScript 3: var, let and const")
+// this let can be chnaged locally
+// var can be changed globally
 // var a = 45;
 // var a = "p"
 let b = "sukh";
